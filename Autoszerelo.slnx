@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="Autoszerelo.Api/Autoszerelo.Api.csproj" />
+  <Project Path="Autoszerelo.Contracts/Autoszerelo.Contracts.csproj" />
+  <Project Path="Autoszerelo.Frontend/Autoszerelo.Frontend.csproj" />
+  <Project Path="Autoszerelo.Tests/Autoszerelo.Tests.csproj" />
 </Solution>
