@@ -17,4 +17,4 @@ public class Job
     public decimal EstimatedHours{get; set;}
 } /*ezt -->NE FELEJSTDS EL<--------------------------------------------
 kérdezd meg hogy jó e úgy, hogy amikor létrejön adom még az értékét,
- nem fog változni dinamikusan!+!!!!!!+"'!*/
+ nem fog változni dinamikusan!!+!!!!!!+"'!*/
