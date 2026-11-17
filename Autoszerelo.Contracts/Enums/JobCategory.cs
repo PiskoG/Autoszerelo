@@ -2,7 +2,7 @@
 
 namespace Autoszerelo.Contracts.Enums;
 
-public enum JobCategories
+public enum JobCategory
 {
     [Display(Name = "Karosszéria")]Bodywork,
     [Display(Name = "Motor")]Engine,
