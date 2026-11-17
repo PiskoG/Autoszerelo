@@ -23,7 +23,7 @@ public class AppDbContext : DbContext
             .Property(job => job.Category)
             .HasConversion<string>();
             /*A 
-              | adatb olvashatósághoz*/
+              | adatb olvashatóságához kell*/
             
         modelBuilder.Entity<Job>()
             .Property(job => job.Status)
